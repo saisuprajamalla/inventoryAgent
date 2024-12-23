@@ -1,0 +1,647 @@
+[
+    {
+        "business_type": "retail",
+        "response": {
+            "headers": [
+                "SKU Name",
+                "Category",
+                "Quantity",
+                "Expiration Date",
+                "Location",
+                "SKU",
+                "Price"
+            ],
+            "rows": [
+                [
+                    "SKU-1",
+                    "retail",
+                    "100",
+                    "2024-12-31",
+                    "Warehouse A",
+                    "SKU-RET",
+                    "$10.99"
+                ],
+                [
+                    "SKU-2",
+                    "retail",
+                    "100",
+                    "2024-12-31",
+                    "Warehouse A",
+                    "SKU-RET",
+                    "$10.99"
+                ],
+                [
+                    "SKU-3",
+                    "retail",
+                    "100",
+                    "2024-12-31",
+                    "Warehouse A",
+                    "SKU-RET",
+                    "$10.99"
+                ]
+            ]
+        }
+    },
+    {
+        "business_type": "grocery",
+        "response": {
+            "headers": [
+                "SKU Name",
+                "Category",
+                "Quantity",
+                "Expiration Date",
+                "Location",
+                "SKU",
+                "Price"
+            ],
+            "rows": [
+                [
+                    "SKU-1",
+                    "grocery",
+                    "100",
+                    "2024-12-31",
+                    "Warehouse A",
+                    "SKU-GRO",
+                    "$10.99"
+                ],
+                [
+                    "SKU-2",
+                    "grocery",
+                    "100",
+                    "2024-12-31",
+                    "Warehouse A",
+                    "SKU-GRO",
+                    "$10.99"
+                ],
+                [
+                    "SKU-3",
+                    "grocery",
+                    "100",
+                    "2024-12-31",
+                    "Warehouse A",
+                    "SKU-GRO",
+                    "$10.99"
+                ]
+            ]
+        }
+    },
+    {
+        "business_type": "electronics",
+        "response": {
+            "headers": [
+                "SKU Name",
+                "Category",
+                "Quantity",
+                "Expiration Date",
+                "Location",
+                "SKU",
+                "Price"
+            ],
+            "rows": [
+                [
+                    "SKU-1",
+                    "electronics",
+                    "100",
+                    "2024-12-31",
+                    "Warehouse A",
+                    "SKU-ELE",
+                    "$10.99"
+                ],
+                [
+                    "SKU-2",
+                    "electronics",
+                    "100",
+                    "2024-12-31",
+                    "Warehouse A",
+                    "SKU-ELE",
+                    "$10.99"
+                ],
+                [
+                    "SKU-3",
+                    "electronics",
+                    "100",
+                    "2024-12-31",
+                    "Warehouse A",
+                    "SKU-ELE",
+                    "$10.99"
+                ]
+            ]
+        }
+    },
+    {
+        "business_type": "pharmacy",
+        "response": {
+            "headers": [
+                "SKU Name",
+                "Category",
+                "Quantity",
+                "Expiration Date",
+                "Location",
+                "SKU",
+                "Price"
+            ],
+            "rows": [
+                [
+                    "SKU-1",
+                    "pharmacy",
+                    "100",
+                    "2024-12-31",
+                    "Warehouse A",
+                    "SKU-PHA",
+                    "$10.99"
+                ],
+                [
+                    "SKU-2",
+                    "pharmacy",
+                    "100",
+                    "2024-12-31",
+                    "Warehouse A",
+                    "SKU-PHA",
+                    "$10.99"
+                ],
+                [
+                    "SKU-3",
+                    "pharmacy",
+                    "100",
+                    "2024-12-31",
+                    "Warehouse A",
+                    "SKU-PHA",
+                    "$10.99"
+                ]
+            ]
+        }
+    },
+    {
+        "business_type": "furniture",
+        "response": {
+            "headers": [
+                "SKU Name",
+                "Category",
+                "Quantity",
+                "Expiration Date",
+                "Location",
+                "SKU",
+                "Price"
+            ],
+            "rows": [
+                [
+                    "SKU-1",
+                    "furniture",
+                    "100",
+                    "2024-12-31",
+                    "Warehouse A",
+                    "SKU-FUR",
+                    "$10.99"
+                ],
+                [
+                    "SKU-2",
+                    "furniture",
+                    "100",
+                    "2024-12-31",
+                    "Warehouse A",
+                    "SKU-FUR",
+                    "$10.99"
+                ],
+                [
+                    "SKU-3",
+                    "furniture",
+                    "100",
+                    "2024-12-31",
+                    "Warehouse A",
+                    "SKU-FUR",
+                    "$10.99"
+                ]
+            ]
+        }
+    },
+    {
+        "business_type": "clothing",
+        "response": {
+            "headers": [
+                "SKU Name",
+                "Category",
+                "Quantity",
+                "Expiration Date",
+                "Location",
+                "SKU",
+                "Price"
+            ],
+            "rows": [
+                [
+                    "SKU-1",
+                    "clothing",
+                    "100",
+                    "2024-12-31",
+                    "Warehouse A",
+                    "SKU-CLO",
+                    "$10.99"
+                ],
+                [
+                    "SKU-2",
+                    "clothing",
+                    "100",
+                    "2024-12-31",
+                    "Warehouse A",
+                    "SKU-CLO",
+                    "$10.99"
+                ],
+                [
+                    "SKU-3",
+                    "clothing",
+                    "100",
+                    "2024-12-31",
+                    "Warehouse A",
+                    "SKU-CLO",
+                    "$10.99"
+                ]
+            ]
+        }
+    },
+    {
+        "business_type": "automotive",
+        "response": {
+            "headers": [
+                "SKU Name",
+                "Category",
+                "Quantity",
+                "Expiration Date",
+                "Location",
+                "SKU",
+                "Price"
+            ],
+            "rows": [
+                [
+                    "SKU-1",
+                    "automotive",
+                    "100",
+                    "2024-12-31",
+                    "Warehouse A",
+                    "SKU-AUT",
+                    "$10.99"
+                ],
+                [
+                    "SKU-2",
+                    "automotive",
+                    "100",
+                    "2024-12-31",
+                    "Warehouse A",
+                    "SKU-AUT",
+                    "$10.99"
+                ],
+                [
+                    "SKU-3",
+                    "automotive",
+                    "100",
+                    "2024-12-31",
+                    "Warehouse A",
+                    "SKU-AUT",
+                    "$10.99"
+                ]
+            ]
+        }
+    },
+    {
+        "business_type": "hospitality",
+        "response": {
+            "headers": [
+                "SKU Name",
+                "Category",
+                "Quantity",
+                "Expiration Date",
+                "Location",
+                "SKU",
+                "Price"
+            ],
+            "rows": [
+                [
+                    "SKU-1",
+                    "hospitality",
+                    "100",
+                    "2024-12-31",
+                    "Warehouse A",
+                    "SKU-HOS",
+                    "$10.99"
+                ],
+                [
+                    "SKU-2",
+                    "hospitality",
+                    "100",
+                    "2024-12-31",
+                    "Warehouse A",
+                    "SKU-HOS",
+                    "$10.99"
+                ],
+                [
+                    "SKU-3",
+                    "hospitality",
+                    "100",
+                    "2024-12-31",
+                    "Warehouse A",
+                    "SKU-HOS",
+                    "$10.99"
+                ]
+            ]
+        }
+    },
+    {
+        "business_type": "food service",
+        "response": {
+            "headers": [
+                "SKU Name",
+                "Category",
+                "Quantity",
+                "Expiration Date",
+                "Location",
+                "SKU",
+                "Price"
+            ],
+            "rows": [
+                [
+                    "SKU-1",
+                    "food service",
+                    "100",
+                    "2024-12-31",
+                    "Warehouse A",
+                    "SKU-FOO",
+                    "$10.99"
+                ],
+                [
+                    "SKU-2",
+                    "food service",
+                    "100",
+                    "2024-12-31",
+                    "Warehouse A",
+                    "SKU-FOO",
+                    "$10.99"
+                ],
+                [
+                    "SKU-3",
+                    "food service",
+                    "100",
+                    "2024-12-31",
+                    "Warehouse A",
+                    "SKU-FOO",
+                    "$10.99"
+                ]
+            ]
+        }
+    },
+    {
+        "business_type": "beauty products",
+        "response": {
+            "headers": [
+                "SKU Name",
+                "Category",
+                "Quantity",
+                "Expiration Date",
+                "Location",
+                "SKU",
+                "Price"
+            ],
+            "rows": [
+                [
+                    "SKU-1",
+                    "beauty products",
+                    "100",
+                    "2024-12-31",
+                    "Warehouse A",
+                    "SKU-BEA",
+                    "$10.99"
+                ],
+                [
+                    "SKU-2",
+                    "beauty products",
+                    "100",
+                    "2024-12-31",
+                    "Warehouse A",
+                    "SKU-BEA",
+                    "$10.99"
+                ],
+                [
+                    "SKU-3",
+                    "beauty products",
+                    "100",
+                    "2024-12-31",
+                    "Warehouse A",
+                    "SKU-BEA",
+                    "$10.99"
+                ]
+            ]
+        }
+    },
+    {
+        "business_type": "hardware",
+        "response": {
+            "headers": [
+                "SKU Name",
+                "Category",
+                "Quantity",
+                "Expiration Date",
+                "Location",
+                "SKU",
+                "Price"
+            ],
+            "rows": [
+                [
+                    "SKU-1",
+                    "hardware",
+                    "100",
+                    "2024-12-31",
+                    "Warehouse A",
+                    "SKU-HAR",
+                    "$10.99"
+                ],
+                [
+                    "SKU-2",
+                    "hardware",
+                    "100",
+                    "2024-12-31",
+                    "Warehouse A",
+                    "SKU-HAR",
+                    "$10.99"
+                ],
+                [
+                    "SKU-3",
+                    "hardware",
+                    "100",
+                    "2024-12-31",
+                    "Warehouse A",
+                    "SKU-HAR",
+                    "$10.99"
+                ]
+            ]
+        }
+    },
+    {
+        "business_type": "books",
+        "response": {
+            "headers": [
+                "SKU Name",
+                "Category",
+                "Quantity",
+                "Expiration Date",
+                "Location",
+                "SKU",
+                "Price"
+            ],
+            "rows": [
+                [
+                    "SKU-1",
+                    "books",
+                    "100",
+                    "2024-12-31",
+                    "Warehouse A",
+                    "SKU-BOO",
+                    "$10.99"
+                ],
+                [
+                    "SKU-2",
+                    "books",
+                    "100",
+                    "2024-12-31",
+                    "Warehouse A",
+                    "SKU-BOO",
+                    "$10.99"
+                ],
+                [
+                    "SKU-3",
+                    "books",
+                    "100",
+                    "2024-12-31",
+                    "Warehouse A",
+                    "SKU-BOO",
+                    "$10.99"
+                ]
+            ]
+        }
+    },
+    {
+        "business_type": "sports equipment",
+        "response": {
+            "headers": [
+                "SKU Name",
+                "Category",
+                "Quantity",
+                "Expiration Date",
+                "Location",
+                "SKU",
+                "Price"
+            ],
+            "rows": [
+                [
+                    "SKU-1",
+                    "sports equipment",
+                    "100",
+                    "2024-12-31",
+                    "Warehouse A",
+                    "SKU-SPO",
+                    "$10.99"
+                ],
+                [
+                    "SKU-2",
+                    "sports equipment",
+                    "100",
+                    "2024-12-31",
+                    "Warehouse A",
+                    "SKU-SPO",
+                    "$10.99"
+                ],
+                [
+                    "SKU-3",
+                    "sports equipment",
+                    "100",
+                    "2024-12-31",
+                    "Warehouse A",
+                    "SKU-SPO",
+                    "$10.99"
+                ]
+            ]
+        }
+    },
+    {
+        "business_type": "toys",
+        "response": {
+            "headers": [
+                "SKU Name",
+                "Category",
+                "Quantity",
+                "Expiration Date",
+                "Location",
+                "SKU",
+                "Price"
+            ],
+            "rows": [
+                [
+                    "SKU-1",
+                    "toys",
+                    "100",
+                    "2024-12-31",
+                    "Warehouse A",
+                    "SKU-TOY",
+                    "$10.99"
+                ],
+                [
+                    "SKU-2",
+                    "toys",
+                    "100",
+                    "2024-12-31",
+                    "Warehouse A",
+                    "SKU-TOY",
+                    "$10.99"
+                ],
+                [
+                    "SKU-3",
+                    "toys",
+                    "100",
+                    "2024-12-31",
+                    "Warehouse A",
+                    "SKU-TOY",
+                    "$10.99"
+                ]
+            ]
+        }
+    },
+    {
+        "business_type": "medical supplies",
+        "response": {
+            "headers": [
+                "SKU Name",
+                "Category",
+                "Quantity",
+                "Expiration Date",
+                "Location",
+                "SKU",
+                "Price"
+            ],
+            "rows": [
+                [
+                    "SKU-1",
+                    "medical supplies",
+                    "100",
+                    "2024-12-31",
+                    "Warehouse A",
+                    "SKU-MED",
+                    "$10.99"
+                ],
+                [
+                    "SKU-2",
+                    "medical supplies",
+                    "100",
+                    "2024-12-31",
+                    "Warehouse A",
+                    "SKU-MED",
+                    "$10.99"
+                ],
+                [
+                    "SKU-3",
+                    "medical supplies",
+                    "100",
+                    "2024-12-31",
+                    "Warehouse A",
+                    "SKU-MED",
+                    "$10.99"
+                ]
+            ]
+        }
+    }
+]
