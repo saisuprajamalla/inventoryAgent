@@ -1,16 +1,16 @@
 # inventoryAgent
 
 ## Backend:
-Python, Flask
-IDE: Pycharm
+Python, Flask, 
+Pycharm(IDE),
 Ngrok for deployment
 
-## LLM: bigscience/bloom-560m
-
+## LLM: 
+bigscience/bloom-560m
 
 ## Frontend:
 JavaScript, HTML, CSS
-IDE: Apps Script
+Apps Script(IDE), 
 Excel Sheet
 
 
