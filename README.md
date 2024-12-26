@@ -9,7 +9,7 @@ Ngrok for deployment
 bigscience/bloom-560m
 
 ## Frontend:
-JavaScript, HTML, CSS
+JavaScript, HTML, CSS,
 Apps Script(IDE), 
 Excel Sheet
 
