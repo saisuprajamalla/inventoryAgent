@@ -3,7 +3,7 @@
 ## Backend:
 Python, Flask, 
 Pycharm(IDE),
-Ngrok for deployment
+Ngrok for deployment : https://dashboard.ngrok.com/get-started/setup/macos
 
 ## LLM: 
 bigscience/bloom-560m
